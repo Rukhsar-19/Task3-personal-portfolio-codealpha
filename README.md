@@ -6,6 +6,7 @@ Responsive personal portfolio website showcasing my skills, projects, and servic
 ## - Installation
 ## - Usage
 ## - Technologies
+## -Demo
 
 ## About:
 My personal portfolio website built to showcase my skills, projects, and services. The website is designed with a focus on responsiveness and interactive elements like animated typing effects, smooth scrolling, and section reveals. The site features sections like Home, Services, Portfolio, and Contact.
@@ -40,5 +41,7 @@ My personal portfolio website built to showcase my skills, projects, and service
 -JavaScript 
 -ScrollReveal.js
 -Typed.js
+### Demo
+[porfolio webdsite git.webm](https://github.com/user-attachments/assets/f969f959-6328-472a-bfb8-aaded5ce054e)
 
 
