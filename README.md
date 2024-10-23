@@ -28,5 +28,17 @@ My personal portfolio website built to showcase my skills, projects, and service
 - The layout is adapted to different screen sizes using CSS media queries.
  ### Toggle Navbar
 - The navigation bar becomes a toggleable menu on smaller screens. Clicking the toggle icon will show or hide the navigation links.
+### Scroll Section Active Links
+-As the user scrolls through different sections, the active link in the navbar is updated dynamically.
+### Scroll Reveal Setup
+-Elements are revealed with animations as the user scrolls down the page using the ScrollReveal library.
+### Typed.js Setup
+-The dynamic typing effect is implemented using the Typed.js library. It simulates typing and deleting text in the Home section.
+### Technologies
+-HTML
+-CSS
+-JavaScript 
+-ScrollReveal.js
+-Typed.js
 
 
